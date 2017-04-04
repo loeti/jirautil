@@ -1,6 +1,6 @@
 # jirautil
 
-*jirautil* helps to convert Json export of a Jira project to be re-importable by another Jira. It's designed to run on a Linux and macOS.
+*jirautil* helps to convert a Json export file of a Jira project to be importable by  Jira again. It's designed to run on a Linux and macOS.
 
 ```
 Usage:
